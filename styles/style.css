@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 238, 238);
+}
+
+
+/* codigo del header  */
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: #bf2c94;
+}
+
+/* codigo de section */
+.caja_1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 220px 0px 220px;
+    padding: 0px 0px 210px 0px;
+}
+
+.tres_cajas {
+    text-align: center; 
+    
+}
+
+.conjunto {
+    margin: 15px 15px 15px 15px;
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0px 0px 10px #8a4a7785;
+}
+
+.tres_cajas_1 {
+    translate: 0px 200px;
+    text-align: center;
+}
+
+.h2_raro {
+    font-size: 23px;
+}
+
+
+
+/* codigo del footer */
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-size: 11px;
+    padding: 20px;
+    color: #bf2c94;
+}
+
+hr {
+    margin: 0px 175px 0px 225px;
+    background-color:#bf2c94;;
+}
